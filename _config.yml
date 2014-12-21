@@ -1,0 +1,44 @@
+# Site settings
+title: Off The Grid Apps
+email: info@otgapps.com
+description: "Off The Grid Apps is a mobile and Mac application development company specializing in RubyMotion."
+
+
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 9FAFCE #80B3FF
+  secondary: 373E49 #FD6E8A
+  secondary-dark: 030303 #A2122F
+
+# Footer settings
+footer:
+  copyright: Dr. Henry Jekyll
+  location: Location
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Credits content
+credits: ''
+
+# Build settings
+markdown: kramdown
+permalink: pretty
