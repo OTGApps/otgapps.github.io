@@ -15,11 +15,13 @@
               <div class="modal-body">
                 <h2>{{ app.trackName }}</h2>
                 <hr class="phone-primary">
-                {% if app.kind =='mac-software' %}
-                  <img src="{{ app.artworkUrl512 | replace:'.512x512-75.jpg','.350x350-75.jpg' }}" class="img-responsive img-centered" alt="{{ app.trackName }}">
-                {% else %}
-                  <img src="{{ app.artworkUrl512 | replace:'.png','.350x350-75.jpg' }}" class="img-responsive img-centered" alt="{{ app.trackName }}">
-                {% endif%}
+                <a href="{{ app.trackViewUrl }}&amp;at=10l4yY&amp;ct=otgapps.io">
+                  {% if app.kind =='mac-software' %}
+                    <img src="{{ app.artworkUrl512 | replace:'.512x512-75.jpg','.350x350-75.jpg' }}" class="img-responsive img-centered rounded" alt="{{ app.trackName }}">
+                  {% else %}
+                    <img src="{{ app.artworkUrl512 | replace:'.png','.350x350-75.jpg' }}" class="img-responsive img-centered rounded" alt="{{ app.trackName }}">
+                  {% endif%}
+                </a>
                 <h3>Description:</h3>
                 {{ app.description | markdownify}}
 
@@ -28,7 +30,7 @@
                   <p>{{ app.releaseNotes }}</p>
                 {% endif %}
                 <h3>Download: </h3>
-                <p class="centered">
+                <p>
                   {% if app.price == 0 %}
                     FREE!
                   {% else %}
@@ -39,6 +41,8 @@
                     <img src="http://ax.phobos.apple.com.edgesuite.net/images/web/linkmaker/badge_appstore-lrg.gif">
                   </a>
                 </p>
+                <h3>Questions? Comments?</h3>
+                <p>If you have questions or comments about {{ app.trackName }}, please don't hesitate to <a href="mailto:info@otgapps.io?subject={{ app.trackName }} App">reach out via email</a>.</p>
 
                 <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
               </div>

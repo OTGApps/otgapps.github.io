@@ -10,9 +10,9 @@
     <div class="row">
       {% for app in site.data.app_store.results | sort: 'releaseDate' %}
         {% if app.kind =='mac-software' or app.kind == 'software' %}
-          <div class="col-sm-4 apps-item rounded">
+          <div class="col-sm-4 apps-item">
             <a href="#appsModal-{{ app.trackId }}" class="apps-link" data-toggle="modal">
-              <div class="caption">
+              <div class="caption rounded">
                 <div class="caption-content">
                   <i class="fa fa-search-plus fa-3x"></i>
                   <div>
@@ -21,9 +21,9 @@
                 </div>
               </div>
               {% if app.kind =='mac-software' %}
-                <img src="{{ app.artworkUrl512 | replace:'.512x512-75.jpg','.350x350-75.jpg' }}" class="img-responsive" alt="{{ app.trackName }}">
+                <img src="{{ app.artworkUrl512 | replace:'.512x512-75.jpg','.350x350-75.jpg' }}" class="img-responsive rounded" alt="{{ app.trackName }}">
               {% else %}
-                <img src="{{ app.artworkUrl512 | replace:'.png','.350x350-75.jpg' }}" class="img-responsive" alt="{{ app.trackName }}">
+                <img src="{{ app.artworkUrl512 | replace:'.png','.350x350-75.jpg' }}" class="img-responsive rounded" alt="{{ app.trackName }}">
               {% endif%}
             </a>
           </div>
