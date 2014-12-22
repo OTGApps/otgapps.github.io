@@ -206,9 +206,6 @@ section.success a.active {
 #apps .apps-item {
     right: 0;
     margin: 0 0 15px;
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    border-radius: 10px;
 }
 
 #apps .apps-item .apps-link {
@@ -350,6 +347,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
+    color: #fff;
     background-color: #{{ site.color.secondary }};
 }
 
