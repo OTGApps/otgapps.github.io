@@ -10,7 +10,7 @@
     <div class="row">
       {% for app in site.data.app_store.results | sort: 'releaseDate' %}
         {% if app.kind =='mac-software' or app.kind == 'software' %}
-          <div class="col-sm-4 apps-item">
+          <div class="col-sm-4 apps-item rounded">
             <a href="#appsModal-{{ app.trackId }}" class="apps-link" data-toggle="modal">
               <div class="caption">
                 <div class="caption-content">
