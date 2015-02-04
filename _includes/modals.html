@@ -23,7 +23,7 @@
                   {% endif%}
                 </a>
                 <h3>Description:</h3>
-                {{ app.description | markdownify}}
+                {{ app.description | markdownify | urlify }}
 
                 {% if app.releaseNotes != '' %}
                   <h3>Latest Update:</h3>
