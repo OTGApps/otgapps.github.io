@@ -11,7 +11,7 @@
       {% for app in site.data.app_store.results | sort: 'releaseDate' %}
         {% if app.kind =='mac-software' or app.kind == 'software' %}
           <div class="col-sm-4 apps-item">
-            <a href="#appsModal-{{ app.trackId }}" class="apps-link" data-toggle="modal">
+            <a href="#{{ app.trackName | slugify }}" class="apps-link" data-toggle="modal">
               <div class="caption rounded">
                 <div class="caption-content">
                   <i class="fa fa-search-plus fa-3x"></i>

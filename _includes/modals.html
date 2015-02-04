@@ -1,7 +1,7 @@
  <!-- Apps Modals -->
 {% for app in site.data.app_store.results | sort: 'releaseDate' %}
 {% if app.kind =='mac-software'] or app.kind == 'software' %}
-  <div class="apps-modal modal fade" id="appsModal-{{ app.trackId }}" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="apps-modal modal fade" id="{{ app.trackName | slugify }}" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-content">
       <div class="close-modal" data-dismiss="modal">
         <div class="lr">

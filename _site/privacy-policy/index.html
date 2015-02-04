@@ -119,6 +119,37 @@
   ga('create', 'UA-70029-18', 'auto');
   ga('send', 'pageview');
 
+  $(function() {
+      // Open the modal automatically if there is a location hash.
+      if(window.location.hash) {
+        $(window.location.hash).modal();
+      }
+
+      // Manages app modal hashes
+      $(".apps-modal").on('show.bs.modal', function(e){
+        window.location.hash = "#" + e.target.id
+      }).on('hide.bs.modal', function(e){
+        removeHash();
+      })
+  });
+
+  function removeHash () {
+    var scrollV, scrollH, loc = window.location;
+    if ("pushState" in history)
+      history.pushState("", document.title, loc.pathname + loc.search);
+    else {
+      // Prevent scrolling by storing the page's current scroll offset
+      scrollV = document.body.scrollTop;
+      scrollH = document.body.scrollLeft;
+
+      loc.hash = "";
+
+      // Restore the scroll offset, should be flicker free
+      document.body.scrollTop = scrollV;
+      document.body.scrollLeft = scrollH;
+    }
+  }
+
 </script>
 
 
