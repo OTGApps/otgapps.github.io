@@ -25,7 +25,7 @@
                 <h3>Description:</h3>
                 {{ app.description | markdownify | urlify }}
 
-                {% if app.releaseNotes != '' %}
+                {% if app.releaseNotes != '' and app.releaseNotes != nil %}
                   <h3>Latest Update:</h3>
                   <p>{{ app.releaseNotes }}</p>
                 {% endif %}
@@ -41,6 +41,12 @@
                     <img src="http://ax.phobos.apple.com.edgesuite.net/images/web/linkmaker/badge_appstore-lrg.gif">
                   </a>
                 </p>
+                <h3>Screenshots:</h3>
+                <div class="screenshots">
+                  {% for url in app.screenshotUrls %}
+                    <a href="{{ url }}" target="_blank"><img src="{{ url }}" alt="Screenshot" /></a>
+                  {% endfor %}
+                </div>
                 <h3>Questions? Comments?</h3>
                 <p>If you have questions or comments about {{ app.trackName }}, please don't hesitate to <a href="mailto:info@otgapps.io?subject={{ app.trackName }} App">reach out via email</a>.</p>
 

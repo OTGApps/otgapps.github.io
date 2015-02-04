@@ -24,11 +24,11 @@
                 <img src="{{ app.artworkUrl512 | replace:'.512x512-75.jpg','.350x350-75.jpg' }}" class="img-responsive rounded" alt="{{ app.trackName }}">
               {% else %}
                 <img src="{{ app.artworkUrl512 | replace:'.png','.350x350-75.jpg' }}" class="img-responsive rounded" alt="{{ app.trackName }}">
-              {% endif%}
+              {% endif %}
             </a>
           </div>
         {% endif %}
-      {% endfor%}
+      {% endfor %}
     </div>
   </div>
 </section>

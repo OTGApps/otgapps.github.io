@@ -463,3 +463,13 @@ footer .footer-below {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+
+.screenshots {
+    text-align:center;
+}
+
+.screenshots img {
+    border: 1px solid #DDD;
+    max-height: 350px;
+    max-width: 350px;
+}
