@@ -62,20 +62,23 @@
         <!-- /.container-fluid -->
     </nav>
 
-        <!-- Header -->
-    <header>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <img class="img-responsive" src="/img/profile.png" alt="Off The Grid Apps">
-                    <div class="intro-text">
-                        <span class="name">Off The Grid Apps</span>
-                        <hr class="phone-light">
-                    </div>
-                </div>
-            </div>
+    <!-- Header -->
+<header>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <img class="img-responsive" src="/img/profile.png" alt="Off The Grid Apps">
+        <div class="intro-text">
+          <span class="name">Off The Grid Apps</span>
+          <hr class="phone-light">
         </div>
-    </header>
+      </div>
+    </div>
+  </div>
+  <div class="notification">
+    <h4>Mohawk Apps is now Off The Grid Apps!</h4>
+  </div>
+</header>
 
     <!-- Apps Grid Section -->
 <section id="apps">
@@ -1260,7 +1263,7 @@ Updated to support iOS 7 and the 4" iPhone size!</p>
         history.pushState("", document.title, loc.pathname + loc.search);
       }
       catch(err) {
-        console.log("failed.")
+        history.replaceState({}, document.title, "/");
       }
     else {
       // Prevent scrolling by storing the page's current scroll offset
