@@ -1,38 +1,37 @@
 {
-   "resultCount":11,
-   "results":[
-      {
-         "wrapperType":"artist",
-         "artistType":"Software Artist",
-         "artistName":"Mohawk Apps, LLC",
-         "artistLinkUrl":"https://itunes.apple.com/us/artist/mohawk-apps-llc/id414522452?uo=4",
-         "artistId":414522452,
-         "radioStationUrl":"https://itunes.apple.com/station/idra.414522452"
+   "resultCount": 11,
+   "results": [{
+         "wrapperType": "artist",
+         "artistType": "Software Artist",
+         "artistName": "Mohawk Apps, LLC",
+         "artistLinkUrl": "https://itunes.apple.com/us/artist/mohawk-apps-llc/id414522452?uo=4",
+         "artistId": 414522452,
+         "radioStationUrl": "https://itunes.apple.com/station/idra.414522452"
       },
       {
-         "screenshotUrls":[
+         "screenshotUrls": [
             "http://a2.mzstatic.com/us/r30/Purple/v4/39/39/24/393924db-cfa9-d355-ae50-2c72455d1221/screen1136x1136.jpeg",
             "http://a4.mzstatic.com/us/r30/Purple4/v4/ab/18/9b/ab189b9e-81ad-4128-8ca4-49e051363dbf/screen1136x1136.jpeg",
             "http://a2.mzstatic.com/us/r30/Purple/v4/04/1e/11/041e1148-59e0-ba6d-43d4-6922a1ece88a/screen1136x1136.jpeg",
             "http://a5.mzstatic.com/us/r30/Purple/v4/c4/00/41/c4004100-49eb-3574-be2b-fea9e27dec9d/screen1136x1136.jpeg",
             "http://a1.mzstatic.com/us/r30/Purple/v4/57/00/13/570013fb-0982-02f6-dfa2-577e34d7fc5f/screen320x320.jpeg"
          ],
-         "ipadScreenshotUrls":[
+         "ipadScreenshotUrls": [
             "http://a5.mzstatic.com/us/r30/Purple/v4/de/c4/8b/dec48b81-69f7-9397-9e8a-94bb468b0dd1/screen480x480.jpeg",
             "http://a3.mzstatic.com/us/r30/Purple/v4/ce/f8/84/cef88447-ca7f-9294-9405-7535ffcc94b5/screen480x480.jpeg",
             "http://a2.mzstatic.com/us/r30/Purple/v4/8c/54/22/8c542241-ca9c-2c89-8501-0e4d2e77a860/screen480x480.jpeg",
             "http://a5.mzstatic.com/us/r30/Purple6/v4/c6/04/ac/c604ac9d-f9ae-369a-829f-78c96792654e/screen480x480.jpeg",
             "http://a1.mzstatic.com/us/r30/Purple/v4/fb/f9/ca/fbf9cace-f57e-eecd-59b2-21e7554e318a/screen480x480.jpeg"
          ],
-         "artworkUrl60":"http://is2.mzstatic.com/image/pf/us/r30/Purple4/v4/af/27/8d/af278dfb-634e-8020-a770-203f5e947d75/Icon.png",
-         "artworkUrl512":"http://is2.mzstatic.com/image/pf/us/r30/Purple6/v4/da/95/d9/da95d9bd-4728-fdb1-d8dd-a3d443749940/mzl.zdpagklb.png",
-         "artistViewUrl":"https://itunes.apple.com/us/artist/mohawk-apps-llc/id414522452?uo=4",
-         "isGameCenterEnabled":false,
-         "kind":"software",
-         "features":[
+         "artworkUrl60": "http://is2.mzstatic.com/image/pf/us/r30/Purple4/v4/af/27/8d/af278dfb-634e-8020-a770-203f5e947d75/Icon.png",
+         "artworkUrl512": "http://is2.mzstatic.com/image/pf/us/r30/Purple6/v4/da/95/d9/da95d9bd-4728-fdb1-d8dd-a3d443749940/mzl.zdpagklb.png",
+         "artistViewUrl": "https://itunes.apple.com/us/artist/mohawk-apps-llc/id414522452?uo=4",
+         "isGameCenterEnabled": false,
+         "kind": "software",
+         "features": [
             "iosUniversal"
          ],
-         "supportedDevices":[
+         "supportedDevices": [
             "iPhone5",
             "iPad23G",
             "iPhone6",
@@ -52,74 +51,74 @@
             "iPad2Wifi",
             "iPadMini4G"
          ],
-         "advisories":[
+         "advisories": [
             "Frequent/Intense Alcohol, Tobacco, or Drug Use or References"
          ],
-         "trackViewUrl":"https://itunes.apple.com/us/app/bjcp-styles/id293788663?mt=8&uo=4",
-         "trackContentRating":"17+",
-         "trackCensoredName":"BJCP Styles",
-         "languageCodesISO2A":[
+         "trackViewUrl": "https://itunes.apple.com/us/app/bjcp-styles/id293788663?mt=8&uo=4",
+         "trackContentRating": "17+",
+         "trackCensoredName": "BJCP Styles",
+         "languageCodesISO2A": [
             "EN",
             "PT"
          ],
-         "fileSizeBytes":"13619840",
-         "sellerUrl":"http://www.otgapps.io",
-         "contentAdvisoryRating":"17+",
-         "averageUserRatingForCurrentVersion":5.0,
-         "userRatingCountForCurrentVersion":70,
-         "artworkUrl100":"http://is2.mzstatic.com/image/pf/us/r30/Purple6/v4/da/95/d9/da95d9bd-4728-fdb1-d8dd-a3d443749940/mzl.zdpagklb.png",
-         "currency":"USD",
-         "wrapperType":"software",
-         "version":"2.2.1",
-         "artistId":414522452,
-         "artistName":"Mohawk Apps, LLC",
-         "genres":[
+         "fileSizeBytes": "13619840",
+         "sellerUrl": "http://www.otgapps.io",
+         "contentAdvisoryRating": "17+",
+         "averageUserRatingForCurrentVersion": 5.0,
+         "userRatingCountForCurrentVersion": 70,
+         "artworkUrl100": "http://is2.mzstatic.com/image/pf/us/r30/Purple6/v4/da/95/d9/da95d9bd-4728-fdb1-d8dd-a3d443749940/mzl.zdpagklb.png",
+         "currency": "USD",
+         "wrapperType": "software",
+         "version": "2.2.1",
+         "artistId": 414522452,
+         "artistName": "Mohawk Apps, LLC",
+         "genres": [
             "Reference",
             "Lifestyle"
          ],
-         "price":0.00,
-         "description":"Now you have a full copy of the BJCP Style Guidelines at your finger tips!\n\nWhether you're a beer judge, a homebrewer, or an enthusiast, this free app will come in handy whenever you want a quick lookup of a style description.\n\nFeatures include:\n• Quick jump to a specific category using the index on the right.\n• Full-text search of all guidelines (with highlighting of your search term)!\n• SRM spectrum graphic for each style!\n• Swipe left and right for access to the next and previous style. (iPad only)\n\nThis application has been completely re-written by Mohawk Apps, LLC to be faster, more user friendly, and more intuitive!\n\nThis application is open source! Check out the source code here: https://github.com/MohawkApps/BJCPStyleGuide",
-         "releaseDate":"2008-10-20T22:58:19Z",
-         "sellerName":"Mohawk Apps, LLC",
-         "primaryGenreName":"Reference",
-         "primaryGenreId":6006,
-         "genreIds":[
+         "price": 0.00,
+         "description": "Now you have a full copy of the BJCP Style Guidelines at your finger tips!\n\nWhether you're a beer judge, a homebrewer, or an enthusiast, this free app will come in handy whenever you want a quick lookup of a style description.\n\nFeatures include:\n• Quick jump to a specific category using the index on the right.\n• Full-text search of all guidelines (with highlighting of your search term)!\n• SRM spectrum graphic for each style!\n• Swipe left and right for access to the next and previous style. (iPad only)\n\nThis application has been completely re-written by Mohawk Apps, LLC to be faster, more user friendly, and more intuitive!\n\nThis application is open source! Check out the source code here: https://github.com/MohawkApps/BJCPStyleGuide",
+         "releaseDate": "2008-10-20T22:58:19Z",
+         "sellerName": "Mohawk Apps, LLC",
+         "primaryGenreName": "Reference",
+         "primaryGenreId": 6006,
+         "genreIds": [
             "6006",
             "6012"
          ],
-         "trackName":"BJCP Styles",
-         "trackId":293788663,
-         "bundleId":"com.yourcompany.BJCPStyles",
-         "releaseNotes":"Fixed critical bug from the iOS 7 transition where in iOS 6 tapping a style would crash the app.",
-         "minimumOsVersion":"6.0",
-         "formattedPrice":"Free",
-         "averageUserRating":3.5,
-         "userRatingCount":808
+         "trackName": "BJCP Styles",
+         "trackId": 293788663,
+         "bundleId": "com.yourcompany.BJCPStyles",
+         "releaseNotes": "Fixed critical bug from the iOS 7 transition where in iOS 6 tapping a style would crash the app.",
+         "minimumOsVersion": "6.0",
+         "formattedPrice": "Free",
+         "averageUserRating": 3.5,
+         "userRatingCount": 808
       },
       {
-         "screenshotUrls":[
+         "screenshotUrls": [
             "http://a4.mzstatic.com/us/r30/Purple4/v4/71/49/26/714926a4-4176-5e63-dac0-b5d92b101fde/screen1136x1136.jpeg",
             "http://a1.mzstatic.com/us/r30/Purple4/v4/a4/40/c7/a440c76b-6663-c4cc-cf32-2748f01f3031/screen1136x1136.jpeg",
             "http://a3.mzstatic.com/us/r30/Purple/v4/9a/ee/b0/9aeeb0ba-b971-e77a-e9d4-0d6ae4f3aefa/screen1136x1136.jpeg",
             "http://a2.mzstatic.com/us/r30/Purple6/v4/0c/b6/29/0cb62914-e222-0e3c-439a-5f475a7a6390/screen1136x1136.jpeg",
             "http://a5.mzstatic.com/us/r30/Purple4/v4/77/97/f5/7797f503-77c3-bd8b-fd1d-0579839bcc9d/screen1136x1136.jpeg"
          ],
-         "ipadScreenshotUrls":[
+         "ipadScreenshotUrls": [
             "http://a1.mzstatic.com/us/r30/Purple6/v4/7e/46/b0/7e46b0c1-db9c-7de3-2bdf-29b256f4591f/screen480x480.jpeg",
             "http://a3.mzstatic.com/us/r30/Purple6/v4/23/10/7c/23107c34-7bba-0532-d045-61f1284c013a/screen480x480.jpeg",
             "http://a1.mzstatic.com/us/r30/Purple6/v4/5c/f0/7c/5cf07c31-9100-e8bb-ca86-22cc5961b14d/screen480x480.jpeg",
             "http://a4.mzstatic.com/us/r30/Purple/v4/05/41/07/05410722-6945-df72-5b3f-9dc5518917d2/screen480x480.jpeg",
             "http://a1.mzstatic.com/us/r30/Purple/v4/35/ad/64/35ad6434-c532-e98f-82b4-94b36bfafc03/screen480x480.jpeg"
          ],
-         "artworkUrl60":"http://is2.mzstatic.com/image/pf/us/r30/Purple/v4/c0/ba/c9/c0bac984-b772-c85a-51b5-d442383aa1c9/Icon.png",
-         "artworkUrl512":"http://is2.mzstatic.com/image/pf/us/r30/Purple/v4/82/70/db/8270dbce-971a-c6ee-ed2b-08c1e3795f07/mzl.fyjchhhd.png",
-         "artistViewUrl":"https://itunes.apple.com/us/artist/mohawk-apps-llc/id414522452?uo=4",
-         "isGameCenterEnabled":false,
-         "kind":"software",
-         "features":[
+         "artworkUrl60": "http://is2.mzstatic.com/image/pf/us/r30/Purple/v4/c0/ba/c9/c0bac984-b772-c85a-51b5-d442383aa1c9/Icon.png",
+         "artworkUrl512": "http://is2.mzstatic.com/image/pf/us/r30/Purple/v4/82/70/db/8270dbce-971a-c6ee-ed2b-08c1e3795f07/mzl.fyjchhhd.png",
+         "artistViewUrl": "https://itunes.apple.com/us/artist/mohawk-apps-llc/id414522452?uo=4",
+         "isGameCenterEnabled": false,
+         "kind": "software",
+         "features": [
             "iosUniversal"
          ],
-         "supportedDevices":[
+         "supportedDevices": [
             "iPhone5",
             "iPadFourthGen4G",
             "iPad23G",
@@ -137,73 +136,73 @@
             "iPhone6Plus",
             "iPadMini4G"
          ],
-         "advisories":[
+         "advisories": [
             "Frequent/Intense Alcohol, Tobacco, or Drug Use or References"
          ],
-         "trackViewUrl":"https://itunes.apple.com/us/app/beer-judge/id666120064?mt=8&uo=4",
-         "trackContentRating":"17+",
-         "trackCensoredName":"Beer Judge",
-         "languageCodesISO2A":[
+         "trackViewUrl": "https://itunes.apple.com/us/app/beer-judge/id666120064?mt=8&uo=4",
+         "trackContentRating": "17+",
+         "trackCensoredName": "Beer Judge",
+         "languageCodesISO2A": [
             "EN"
          ],
-         "fileSizeBytes":"18331391",
-         "sellerUrl":"http://www.otgapps.io",
-         "contentAdvisoryRating":"17+",
-         "averageUserRatingForCurrentVersion":5.0,
-         "userRatingCountForCurrentVersion":12,
-         "artworkUrl100":"http://is2.mzstatic.com/image/pf/us/r30/Purple/v4/82/70/db/8270dbce-971a-c6ee-ed2b-08c1e3795f07/mzl.fyjchhhd.png",
-         "currency":"USD",
-         "wrapperType":"software",
-         "version":"1.2.0",
-         "artistId":414522452,
-         "artistName":"Mohawk Apps, LLC",
-         "genres":[
+         "fileSizeBytes": "18331391",
+         "sellerUrl": "http://www.otgapps.io",
+         "contentAdvisoryRating": "17+",
+         "averageUserRatingForCurrentVersion": 5.0,
+         "userRatingCountForCurrentVersion": 12,
+         "artworkUrl100": "http://is2.mzstatic.com/image/pf/us/r30/Purple/v4/82/70/db/8270dbce-971a-c6ee-ed2b-08c1e3795f07/mzl.fyjchhhd.png",
+         "currency": "USD",
+         "wrapperType": "software",
+         "version": "1.2.0",
+         "artistId": 414522452,
+         "artistName": "Mohawk Apps, LLC",
+         "genres": [
             "Productivity",
             "Reference"
          ],
-         "price":1.99,
-         "description":"This app is the perfect companion when you're at a beer competition, social gathering, or simply drinking alone!\n\n - Use the Flavor Wheel to explore and help identify different off flavors and aromas in a beer.\n - Explore common off flavors.\n - Tap and drag around the SRM Spectrum to identify the closest SRM to the beer you're judging.\n - Use your device's camera to help you estimate a beer's SRM using the SRM Analysis tool!\n\n* SRM Analysis tool requires a device with camera capability and is meant for _entertainment purposes only_. Lots of things can affect the color analyzer's results including lighting conditions, clarity of the beer, and camera stability.",
-         "releaseDate":"2013-07-03T03:26:48Z",
-         "sellerName":"Mohawk Apps, LLC",
-         "primaryGenreName":"Productivity",
-         "primaryGenreId":6007,
-         "genreIds":[
+         "price": 1.99,
+         "description": "This app is the perfect companion when you're at a beer competition, social gathering, or simply drinking alone!\n\n - Use the Flavor Wheel to explore and help identify different off flavors and aromas in a beer.\n - Explore common off flavors.\n - Tap and drag around the SRM Spectrum to identify the closest SRM to the beer you're judging.\n - Use your device's camera to help you estimate a beer's SRM using the SRM Analysis tool!\n\n* SRM Analysis tool requires a device with camera capability and is meant for _entertainment purposes only_. Lots of things can affect the color analyzer's results including lighting conditions, clarity of the beer, and camera stability.",
+         "releaseDate": "2013-07-03T03:26:48Z",
+         "sellerName": "Mohawk Apps, LLC",
+         "primaryGenreName": "Productivity",
+         "primaryGenreId": 6007,
+         "genreIds": [
             "6007",
             "6006"
          ],
-         "trackName":"Beer Judge",
-         "trackId":666120064,
-         "bundleId":"com.mohawkapps.BeerJudge",
-         "releaseNotes":"Beer Judge is now optimized for iOS 7!",
-         "minimumOsVersion":"7.0",
-         "formattedPrice":"$1.99",
-         "averageUserRating":4.0,
-         "userRatingCount":19
+         "trackName": "Beer Judge",
+         "trackId": 666120064,
+         "bundleId": "com.mohawkapps.BeerJudge",
+         "releaseNotes": "Beer Judge is now optimized for iOS 7!",
+         "minimumOsVersion": "7.0",
+         "formattedPrice": "$1.99",
+         "averageUserRating": 4.0,
+         "userRatingCount": 19
       },
       {
-         "screenshotUrls":[
+         "screenshotUrls": [
             "http://a2.mzstatic.com/us/r30/Purple1/v4/16/8e/95/168e9592-7238-10fc-80e7-bbea312c235c/screen1136x1136.jpeg",
             "http://a2.mzstatic.com/us/r30/Purple3/v4/ef/0b/f4/ef0bf4ee-62e6-825d-17a7-559ee6e4a18a/screen1136x1136.jpeg",
             "http://a5.mzstatic.com/us/r30/Purple3/v4/b6/c0/13/b6c013be-4aba-f5ae-68ad-bcb390f095bf/screen1136x1136.jpeg",
             "http://a5.mzstatic.com/us/r30/Purple5/v4/f3/4c/d7/f34cd7e0-cdc1-0daa-0660-eb811b6bad30/screen1136x1136.jpeg",
             "http://a4.mzstatic.com/us/r30/Purple3/v4/83/7b/0f/837b0f81-40a4-514f-07e7-d2b57d671696/screen1136x1136.jpeg"
          ],
-         "ipadScreenshotUrls":[
+         "ipadScreenshotUrls": [
             "http://a1.mzstatic.com/us/r30/Purple3/v4/48/d6/e1/48d6e144-767b-cf7a-0041-ad1a858bc2c2/screen480x480.jpeg",
             "http://a3.mzstatic.com/us/r30/Purple1/v4/fe/c9/00/fec90047-0113-625d-7c8f-cd9484cdf3ba/screen480x480.jpeg",
             "http://a1.mzstatic.com/us/r30/Purple1/v4/a7/aa/9e/a7aa9e10-c2a4-9235-4879-8d2cde419eaa/screen480x480.jpeg",
             "http://a5.mzstatic.com/us/r30/Purple3/v4/0b/4e/f2/0b4ef201-baf6-37ff-09b9-3a1141f7d084/screen480x480.jpeg",
             "http://a2.mzstatic.com/us/r30/Purple5/v4/11/93/61/11936141-40ee-42af-fe9a-ba8146f32379/screen480x480.jpeg"
          ],
-         "artworkUrl60":"http://is2.mzstatic.com/image/pf/us/r30/Purple3/v4/a6/3e/14/a63e1459-d88f-4890-0cc1-a330ee6a3751/Icon.png",
-         "artworkUrl512":"http://is3.mzstatic.com/image/pf/us/r30/Purple3/v4/57/c0/d9/57c0d943-2997-199b-c410-5c50b04a9a0d/mzl.xymfwvry.png",
-         "artistViewUrl":"https://itunes.apple.com/us/artist/mohawk-apps-llc/id414522452?uo=4",
-         "isGameCenterEnabled":false,
-         "kind":"software",
-         "features":[
+         "artworkUrl60": "http://is2.mzstatic.com/image/pf/us/r30/Purple3/v4/a6/3e/14/a63e1459-d88f-4890-0cc1-a330ee6a3751/Icon.png",
+         "artworkUrl512": "http://is3.mzstatic.com/image/pf/us/r30/Purple3/v4/57/c0/d9/57c0d943-2997-199b-c410-5c50b04a9a0d/mzl.xymfwvry.png",
+         "artistViewUrl": "https://itunes.apple.com/us/artist/mohawk-apps-llc/id414522452?uo=4",
+         "isGameCenterEnabled": false,
+         "kind": "software",
+         "features": [
             "iosUniversal"
          ],
-         "supportedDevices":[
+         "supportedDevices": [
             "iPhone5",
             "iPadFourthGen4G",
             "iPad23G",
@@ -221,73 +220,73 @@
             "iPhone6Plus",
             "iPadMini4G"
          ],
-         "advisories":[
+         "advisories": [
 
          ],
-         "trackViewUrl":"https://itunes.apple.com/us/app/show-closer/id483940964?mt=8&uo=4",
-         "trackContentRating":"4+",
-         "trackCensoredName":"Show Closer",
-         "languageCodesISO2A":[
+         "trackViewUrl": "https://itunes.apple.com/us/app/show-closer/id483940964?mt=8&uo=4",
+         "trackContentRating": "4+",
+         "trackCensoredName": "Show Closer",
+         "languageCodesISO2A": [
             "EN"
          ],
-         "fileSizeBytes":"13377532",
-         "sellerUrl":"http://www.otgapps.io",
-         "contentAdvisoryRating":"4+",
-         "averageUserRatingForCurrentVersion":5.0,
-         "userRatingCountForCurrentVersion":2,
-         "artworkUrl100":"http://is3.mzstatic.com/image/pf/us/r30/Purple3/v4/57/c0/d9/57c0d943-2997-199b-c410-5c50b04a9a0d/mzl.xymfwvry.png",
-         "currency":"USD",
-         "wrapperType":"software",
-         "version":"3.0.9",
-         "artistId":414522452,
-         "artistName":"Mohawk Apps, LLC",
-         "genres":[
+         "fileSizeBytes": "13377532",
+         "sellerUrl": "http://www.otgapps.io",
+         "contentAdvisoryRating": "4+",
+         "averageUserRatingForCurrentVersion": 5.0,
+         "userRatingCountForCurrentVersion": 2,
+         "artworkUrl100": "http://is3.mzstatic.com/image/pf/us/r30/Purple3/v4/57/c0/d9/57c0d943-2997-199b-c410-5c50b04a9a0d/mzl.xymfwvry.png",
+         "currency": "USD",
+         "wrapperType": "software",
+         "version": "3.0.9",
+         "artistId": 414522452,
+         "artistName": "Mohawk Apps, LLC",
+         "genres": [
             "Business",
             "Productivity"
          ],
-         "price":4.99,
-         "description":"This application was made by a Jeweler for Jewelers. You MUST be an authorized Jeweler to use this application.\n\nShow Closer has some great features that you'll love to use:\n\n- Quick Lookup screen to find item prices and page numbers on the go!\n- Saving of multiple hostess orders and wishlists.\n- Automatic calculation of your hostess 30% benefits and bonuses with customizable settings for promotions from the Home Office.\n- Quickly enter the show total and the bonuses earned by the hostess. These numbers are easy to change and will recalculate the show on the fly!\n- A curated database of all the current! Quickly find the pieces your hostess wants FREE and HALF PRICE and watch her credit automatically recalculate!\n- Seamless internet updates means you'll never have to worry that your database is out of date.\n- Quickly search the jewelry database and add items to the hostess's wishlist.\n- Search the full database of jewelry by item number or name. Our database also includes recently retired pieces!\n- Switch to the wishlist view to change quantities, see more item details, or quickly clear the entire list.\n- The \"Jewelry Genie\" automatically figures out the best deal for the pieces your hostess wants!\n- An exact replica of the hostess receipt with everything filled out for you. Just copy it on to the hostess's physical receipt and you're done! You can email the receipt to your hostess when you've finalized the show!\n\nWe're confident that you'll love this app!\n\n************\nPlease Read:\n************\nIn order to make sure that you have the most recent and accurate list of Jewelry, this app utilizes in-app purchases to update the database when a new catalog comes out.\nYour app purchase includes the current product line at the time of purchase. Data updates for the Fall/Winter and Spring/Summer collections are an additional fee.\u2028 The Christmas catalog update is FREE. Once the new catalog is released, we will do our best to get the database updated as quickly as possible and it is generally complete before Rally is over! Your app will prompt you to purchase the updated data when it is available. Updates will be $4.99 each.",
-         "releaseDate":"2012-01-07T02:01:13Z",
-         "sellerName":"Mohawk Apps, LLC",
-         "primaryGenreName":"Business",
-         "primaryGenreId":6000,
-         "genreIds":[
+         "price": 4.99,
+         "description": "This application was made by a Jeweler for Jewelers. You MUST be an authorized Jeweler to use this application.\n\nShow Closer has some great features that you'll love to use:\n\n- Quick Lookup screen to find item prices and page numbers on the go!\n- Saving of multiple hostess orders and wishlists.\n- Automatic calculation of your hostess 30% benefits and bonuses with customizable settings for promotions from the Home Office.\n- Quickly enter the show total and the bonuses earned by the hostess. These numbers are easy to change and will recalculate the show on the fly!\n- A curated database of all the current! Quickly find the pieces your hostess wants FREE and HALF PRICE and watch her credit automatically recalculate!\n- Seamless internet updates means you'll never have to worry that your database is out of date.\n- Quickly search the jewelry database and add items to the hostess's wishlist.\n- Search the full database of jewelry by item number or name. Our database also includes recently retired pieces!\n- Switch to the wishlist view to change quantities, see more item details, or quickly clear the entire list.\n- The \"Jewelry Genie\" automatically figures out the best deal for the pieces your hostess wants!\n- An exact replica of the hostess receipt with everything filled out for you. Just copy it on to the hostess's physical receipt and you're done! You can email the receipt to your hostess when you've finalized the show!\n\nWe're confident that you'll love this app!\n\n************\nPlease Read:\n************\nIn order to make sure that you have the most recent and accurate list of Jewelry, this app utilizes in-app purchases to update the database when a new catalog comes out.\nYour app purchase includes the current product line at the time of purchase. Data updates for the Fall/Winter and Spring/Summer collections are an additional fee.\u2028 The Christmas catalog update is FREE. Once the new catalog is released, we will do our best to get the database updated as quickly as possible and it is generally complete before Rally is over! Your app will prompt you to purchase the updated data when it is available. Updates will be $4.99 each.",
+         "releaseDate": "2012-01-07T02:01:13Z",
+         "sellerName": "Mohawk Apps, LLC",
+         "primaryGenreName": "Business",
+         "primaryGenreId": 6000,
+         "genreIds": [
             "6000",
             "6007"
          ],
-         "trackName":"Show Closer",
-         "trackId":483940964,
-         "bundleId":"com.mohawkapps.TheShowCloser",
-         "releaseNotes":"Fixes tab bar transparency issue on iOS 7 devices.\nFaster loading of the jewelry screen content.\nMisc aesthetic updates.\n64-bit support!",
-         "minimumOsVersion":"7.1",
-         "formattedPrice":"$4.99",
-         "averageUserRating":4.5,
-         "userRatingCount":106
+         "trackName": "Show Closer",
+         "trackId": 483940964,
+         "bundleId": "com.mohawkapps.TheShowCloser",
+         "releaseNotes": "Fixes tab bar transparency issue on iOS 7 devices.\nFaster loading of the jewelry screen content.\nMisc aesthetic updates.\n64-bit support!",
+         "minimumOsVersion": "7.1",
+         "formattedPrice": "$4.99",
+         "averageUserRating": 4.5,
+         "userRatingCount": 106
       },
       {
-         "screenshotUrls":[
+         "screenshotUrls": [
             "http://a1.mzstatic.com/us/r30/Purple/v4/aa/51/06/aa5106f4-94e9-ccad-1dea-9919f0ae2051/screen1136x1136.jpeg",
             "http://a1.mzstatic.com/us/r30/Purple6/v4/9b/67/e7/9b67e7c4-dc1e-b88c-19ed-f7a3e65ef725/screen1136x1136.jpeg",
             "http://a5.mzstatic.com/us/r30/Purple6/v4/b4/01/8e/b4018e63-6ce6-daec-3889-6614c8cd0fa3/screen1136x1136.jpeg",
             "http://a5.mzstatic.com/us/r30/Purple6/v4/3f/69/27/3f6927b9-83af-8948-d119-5674460158c8/screen1136x1136.jpeg",
             "http://a4.mzstatic.com/us/r30/Purple6/v4/4a/a4/7e/4aa47e24-a2b4-0b74-ddfd-8660833d16a8/screen320x320.jpeg"
          ],
-         "ipadScreenshotUrls":[
+         "ipadScreenshotUrls": [
             "http://a4.mzstatic.com/us/r30/Purple6/v4/5d/00/5a/5d005ac9-89ea-01bb-8120-359488ea4456/screen480x480.jpeg",
             "http://a4.mzstatic.com/us/r30/Purple4/v4/e8/41/8f/e8418f73-96e2-793d-9b37-0ce664175aaa/screen480x480.jpeg",
             "http://a3.mzstatic.com/us/r30/Purple4/v4/1e/69/49/1e694974-dd82-f78d-81bf-39429e07dbd3/screen480x480.jpeg",
             "http://a1.mzstatic.com/us/r30/Purple6/v4/f5/99/52/f5995259-eb24-51dc-1b3b-f78181546c08/screen480x480.jpeg",
             "http://a2.mzstatic.com/us/r30/Purple4/v4/cb/30/e1/cb30e1b4-180e-a628-be58-70f520a2052b/screen480x480.jpeg"
          ],
-         "artworkUrl60":"http://is1.mzstatic.com/image/pf/us/r30/Purple4/v4/57/15/a6/5715a686-c80e-466e-e035-eca4fa15ad46/Icon.png",
-         "artworkUrl512":"http://is5.mzstatic.com/image/pf/us/r30/Purple4/v4/ba/63/36/ba6336e3-98f6-683a-b992-767f2d2a1d0a/mzl.ofverise.png",
-         "artistViewUrl":"https://itunes.apple.com/us/artist/mohawk-apps-llc/id414522452?uo=4",
-         "isGameCenterEnabled":false,
-         "kind":"software",
-         "features":[
+         "artworkUrl60": "http://is1.mzstatic.com/image/pf/us/r30/Purple4/v4/57/15/a6/5715a686-c80e-466e-e035-eca4fa15ad46/Icon.png",
+         "artworkUrl512": "http://is5.mzstatic.com/image/pf/us/r30/Purple4/v4/ba/63/36/ba6336e3-98f6-683a-b992-767f2d2a1d0a/mzl.ofverise.png",
+         "artistViewUrl": "https://itunes.apple.com/us/artist/mohawk-apps-llc/id414522452?uo=4",
+         "isGameCenterEnabled": false,
+         "kind": "software",
+         "features": [
             "iosUniversal"
          ],
-         "supportedDevices":[
+         "supportedDevices": [
             "iPhone5",
             "iPad23G",
             "iPhone6",
@@ -307,67 +306,67 @@
             "iPad2Wifi",
             "iPadMini4G"
          ],
-         "advisories":[
+         "advisories": [
             "Frequent/Intense Alcohol, Tobacco, or Drug Use or References"
          ],
-         "trackViewUrl":"https://itunes.apple.com/us/app/brewers-association-styles/id670470983?mt=8&uo=4",
-         "trackContentRating":"17+",
-         "trackCensoredName":"Brewers Association Styles",
-         "languageCodesISO2A":[
+         "trackViewUrl": "https://itunes.apple.com/us/app/brewers-association-styles/id670470983?mt=8&uo=4",
+         "trackContentRating": "17+",
+         "trackCensoredName": "Brewers Association Styles",
+         "languageCodesISO2A": [
             "EN"
          ],
-         "fileSizeBytes":"12099846",
-         "sellerUrl":"http://www.otgapps.io",
-         "contentAdvisoryRating":"17+",
-         "averageUserRatingForCurrentVersion":5.0,
-         "userRatingCountForCurrentVersion":3,
-         "artworkUrl100":"http://is5.mzstatic.com/image/pf/us/r30/Purple4/v4/ba/63/36/ba6336e3-98f6-683a-b992-767f2d2a1d0a/mzl.ofverise.png",
-         "currency":"USD",
-         "wrapperType":"software",
-         "version":"1.0.1",
-         "artistId":414522452,
-         "artistName":"Mohawk Apps, LLC",
-         "genres":[
+         "fileSizeBytes": "12099846",
+         "sellerUrl": "http://www.otgapps.io",
+         "contentAdvisoryRating": "17+",
+         "averageUserRatingForCurrentVersion": 5.0,
+         "userRatingCountForCurrentVersion": 3,
+         "artworkUrl100": "http://is5.mzstatic.com/image/pf/us/r30/Purple4/v4/ba/63/36/ba6336e3-98f6-683a-b992-767f2d2a1d0a/mzl.ofverise.png",
+         "currency": "USD",
+         "wrapperType": "software",
+         "version": "1.0.1",
+         "artistId": 414522452,
+         "artistName": "Mohawk Apps, LLC",
+         "genres": [
             "Reference",
             "Food & Drink"
          ],
-         "price":0.00,
-         "description":"Now you have a full copy of the Brewers Association Style Guidelines at your finger tips! \n\nWhether you're a beer judge, a homebrewer, or an enthusiast, this free app will come in handy whenever you want a quick lookup of a style description. \n\nFeatures include: \n• Full-text search of all guidelines (with highlighting of your search term)! \n• SRM spectrum graphic for each style! \n• Swipe left and right for access to the next and previous style. (iPad only) \n\nThis application is open source! Check out the source code here: https://github.com/OTGApps/BAStyleGuide",
-         "releaseDate":"2013-10-12T02:33:52Z",
-         "sellerName":"Mohawk Apps, LLC",
-         "primaryGenreName":"Reference",
-         "primaryGenreId":6006,
-         "genreIds":[
+         "price": 0.00,
+         "description": "Now you have a full copy of the Brewers Association Style Guidelines at your finger tips! \n\nWhether you're a beer judge, a homebrewer, or an enthusiast, this free app will come in handy whenever you want a quick lookup of a style description. \n\nFeatures include: \n• Full-text search of all guidelines (with highlighting of your search term)! \n• SRM spectrum graphic for each style! \n• Swipe left and right for access to the next and previous style. (iPad only) \n\nThis application is open source! Check out the source code here: https://github.com/OTGApps/BAStyleGuide",
+         "releaseDate": "2013-10-12T02:33:52Z",
+         "sellerName": "Mohawk Apps, LLC",
+         "primaryGenreName": "Reference",
+         "primaryGenreId": 6006,
+         "genreIds": [
             "6006",
             "6023"
          ],
-         "trackName":"Brewers Association Styles",
-         "trackId":670470983,
-         "bundleId":"com.mohawkapps.BAStyleGuide",
-         "releaseNotes":"Fixed a few bugs related to title bar contents.",
-         "minimumOsVersion":"6.0",
-         "formattedPrice":"Free"
+         "trackName": "Brewers Association Styles",
+         "trackId": 670470983,
+         "bundleId": "com.mohawkapps.BAStyleGuide",
+         "releaseNotes": "Fixed a few bugs related to title bar contents.",
+         "minimumOsVersion": "6.0",
+         "formattedPrice": "Free"
       },
       {
-         "screenshotUrls":[
+         "screenshotUrls": [
             "http://a3.mzstatic.com/us/r30/Purple4/v4/22/84/88/228488c3-4ffc-fb45-c920-a9e4bc2d92dc/screen1136x1136.jpeg",
             "http://a1.mzstatic.com/us/r30/Purple/v4/ee/96/5a/ee965a3d-9c2f-d34d-c094-04b208073c7f/screen1136x1136.jpeg",
             "http://a5.mzstatic.com/us/r30/Purple4/v4/fa/58/78/fa587823-a046-a084-5b4e-7b96b58dc745/screen1136x1136.jpeg",
             "http://a2.mzstatic.com/us/r30/Purple6/v4/6e/3c/53/6e3c53b1-ea88-f0fd-8b5f-956760073f14/screen1136x1136.jpeg",
             "http://a3.mzstatic.com/us/r30/Purple6/v4/53/3f/4f/533f4f18-8e61-8243-9d68-ce4bc3177383/screen1136x1136.jpeg"
          ],
-         "ipadScreenshotUrls":[
+         "ipadScreenshotUrls": [
 
          ],
-         "artworkUrl60":"http://is5.mzstatic.com/image/pf/us/r30/Purple4/v4/91/85/fc/9185fcf3-58df-de1f-ed9d-1eee6dc1236f/Icon.png",
-         "artworkUrl512":"http://is2.mzstatic.com/image/pf/us/r30/Purple4/v4/7c/68/7c/7c687ca7-2546-a227-a7af-1bf9124ce12d/mzl.woiflerc.png",
-         "artistViewUrl":"https://itunes.apple.com/us/artist/mohawk-apps-llc/id414522452?uo=4",
-         "isGameCenterEnabled":false,
-         "kind":"software",
-         "features":[
+         "artworkUrl60": "http://is5.mzstatic.com/image/pf/us/r30/Purple4/v4/91/85/fc/9185fcf3-58df-de1f-ed9d-1eee6dc1236f/Icon.png",
+         "artworkUrl512": "http://is2.mzstatic.com/image/pf/us/r30/Purple4/v4/7c/68/7c/7c687ca7-2546-a227-a7af-1bf9124ce12d/mzl.woiflerc.png",
+         "artistViewUrl": "https://itunes.apple.com/us/artist/mohawk-apps-llc/id414522452?uo=4",
+         "isGameCenterEnabled": false,
+         "kind": "software",
+         "features": [
 
          ],
-         "supportedDevices":[
+         "supportedDevices": [
             "iPhone5",
             "iPadFourthGen4G",
             "iPad23G",
@@ -385,72 +384,72 @@
             "iPhone6Plus",
             "iPadMini4G"
          ],
-         "advisories":[
+         "advisories": [
             "Infrequent/Mild Sexual Content and Nudity",
             "Infrequent/Mild Cartoon or Fantasy Violence",
             "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
             "Infrequent/Mild Profanity or Crude Humor",
             "Infrequent/Mild Mature/Suggestive Themes"
          ],
-         "trackViewUrl":"https://itunes.apple.com/us/app/textables-unicode-ascii-art/id769404785?mt=8&uo=4",
-         "trackContentRating":"12+",
-         "trackCensoredName":"Textables - Unicode and ASCII Art",
-         "languageCodesISO2A":[
+         "trackViewUrl": "https://itunes.apple.com/us/app/textables-unicode-ascii-art/id769404785?mt=8&uo=4",
+         "trackContentRating": "12+",
+         "trackCensoredName": "Textables - Unicode and ASCII Art",
+         "languageCodesISO2A": [
             "EN"
          ],
-         "fileSizeBytes":"14011609",
-         "sellerUrl":"http://www.otgapps.io",
-         "contentAdvisoryRating":"12+",
-         "averageUserRatingForCurrentVersion":4.0,
-         "userRatingCountForCurrentVersion":11,
-         "artworkUrl100":"http://is2.mzstatic.com/image/pf/us/r30/Purple4/v4/7c/68/7c/7c687ca7-2546-a227-a7af-1bf9124ce12d/mzl.woiflerc.png",
-         "currency":"USD",
-         "wrapperType":"software",
-         "version":"1.1.3",
-         "artistId":414522452,
-         "artistName":"Mohawk Apps, LLC",
-         "genres":[
+         "fileSizeBytes": "14011609",
+         "sellerUrl": "http://www.otgapps.io",
+         "contentAdvisoryRating": "12+",
+         "averageUserRatingForCurrentVersion": 4.0,
+         "userRatingCountForCurrentVersion": 11,
+         "artworkUrl100": "http://is2.mzstatic.com/image/pf/us/r30/Purple4/v4/7c/68/7c/7c687ca7-2546-a227-a7af-1bf9124ce12d/mzl.woiflerc.png",
+         "currency": "USD",
+         "wrapperType": "software",
+         "version": "1.1.3",
+         "artistId": 414522452,
+         "artistName": "Mohawk Apps, LLC",
+         "genres": [
             "Social Networking",
             "Entertainment"
          ],
-         "price":0.99,
-         "description":"Textables is the fun new way to send Unicode and ASCII text art to your friends! Explore a library of over 100 ASCII & Unicode artwork that you can easily send to your friends over SMS, iMessage, Email, Facebook, and Twitter!\n\n - Select favorites for easy access to your most used icons\n - Send to: SMS, iMessage, Email, Facebook, and Twitter\n - Copy to the clipboard to use anywhere\n - Create your own unique c尺ﾑ乙ﾘ & upside down text and share your creations\n\nIf you love expressing yourself to friends using Emoji, you'll love using Textables!\n\nStay tuned! We'll be adding more Textables to the library over time!\n\nThis app is open source. Browse the source code here: https://github.com/OTGApps/Textables/",
-         "releaseDate":"2013-12-13T21:58:03Z",
-         "sellerName":"Mohawk Apps, LLC",
-         "primaryGenreName":"Social Networking",
-         "primaryGenreId":6005,
-         "genreIds":[
+         "price": 0.99,
+         "description": "Textables is the fun new way to send Unicode and ASCII text art to your friends! Explore a library of over 100 ASCII & Unicode artwork that you can easily send to your friends over SMS, iMessage, Email, Facebook, and Twitter!\n\n - Select favorites for easy access to your most used icons\n - Send to: SMS, iMessage, Email, Facebook, and Twitter\n - Copy to the clipboard to use anywhere\n - Create your own unique c尺ﾑ乙ﾘ & upside down text and share your creations\n\nIf you love expressing yourself to friends using Emoji, you'll love using Textables!\n\nStay tuned! We'll be adding more Textables to the library over time!\n\nThis app is open source. Browse the source code here: https://github.com/OTGApps/Textables/",
+         "releaseDate": "2013-12-13T21:58:03Z",
+         "sellerName": "Mohawk Apps, LLC",
+         "primaryGenreName": "Social Networking",
+         "primaryGenreId": 6005,
+         "genreIds": [
             "6005",
             "6016"
          ],
-         "trackName":"Textables - Unicode and ASCII Art",
-         "trackId":769404785,
-         "bundleId":"com.mohawkapps.texties",
-         "releaseNotes":"Misc bugfixes and behind-the-scenes updates.",
-         "minimumOsVersion":"7.0",
-         "formattedPrice":"$0.99",
-         "averageUserRating":4.5,
-         "userRatingCount":40
+         "trackName": "Textables - Unicode and ASCII Art",
+         "trackId": 769404785,
+         "bundleId": "com.mohawkapps.texties",
+         "releaseNotes": "Misc bugfixes and behind-the-scenes updates.",
+         "minimumOsVersion": "7.0",
+         "formattedPrice": "$0.99",
+         "averageUserRating": 4.5,
+         "userRatingCount": 40
       },
       {
-         "screenshotUrls":[
+         "screenshotUrls": [
             "http://a1.mzstatic.com/us/r30/Purple/v4/ca/4f/9b/ca4f9b31-59a7-d042-4e44-ab8cdbdee5e5/screen1136x1136.jpeg",
             "http://a3.mzstatic.com/us/r30/Purple/v4/c3/74/6b/c3746ba6-dda9-cbe2-4500-af0bb1125f60/screen1136x1136.jpeg",
             "http://a1.mzstatic.com/us/r30/Purple3/v4/67/58/8f/67588f10-345c-c01e-1f4a-48173e5d374b/screen1136x1136.jpeg",
             "http://a2.mzstatic.com/us/r30/Purple3/v4/ed/61/72/ed617291-c288-8cfb-a8ec-cd987db7c024/screen1136x1136.jpeg"
          ],
-         "ipadScreenshotUrls":[
+         "ipadScreenshotUrls": [
 
          ],
-         "artworkUrl60":"http://is2.mzstatic.com/image/pf/us/r30/Purple4/v4/f5/bc/99/f5bc991f-abfd-9dd4-014f-c2dceb712e4c/Icon.png",
-         "artworkUrl512":"http://is5.mzstatic.com/image/pf/us/r30/Purple4/v4/b6/a4/8b/b6a48b5d-b808-ea92-0d49-d6f3a2a8a8a8/mzl.zmkwmwyx.png",
-         "artistViewUrl":"https://itunes.apple.com/us/artist/mohawk-apps-llc/id414522452?uo=4",
-         "isGameCenterEnabled":false,
-         "kind":"software",
-         "features":[
+         "artworkUrl60": "http://is2.mzstatic.com/image/pf/us/r30/Purple4/v4/f5/bc/99/f5bc991f-abfd-9dd4-014f-c2dceb712e4c/Icon.png",
+         "artworkUrl512": "http://is5.mzstatic.com/image/pf/us/r30/Purple4/v4/b6/a4/8b/b6a48b5d-b808-ea92-0d49-d6f3a2a8a8a8/mzl.zmkwmwyx.png",
+         "artistViewUrl": "https://itunes.apple.com/us/artist/mohawk-apps-llc/id414522452?uo=4",
+         "isGameCenterEnabled": false,
+         "kind": "software",
+         "features": [
 
          ],
-         "supportedDevices":[
+         "supportedDevices": [
             "iPhone5",
             "iPadFourthGen4G",
             "iPad23G",
@@ -467,118 +466,118 @@
             "iPhone6Plus",
             "iPadMini4G"
          ],
-         "advisories":[
+         "advisories": [
 
          ],
-         "trackViewUrl":"https://itunes.apple.com/us/app/aloft-winds-aloft-forecast/id823834093?mt=8&uo=4",
-         "trackContentRating":"4+",
-         "trackCensoredName":"aloft - Winds Aloft Forecast",
-         "languageCodesISO2A":[
+         "trackViewUrl": "https://itunes.apple.com/us/app/aloft-winds-aloft-forecast/id823834093?mt=8&uo=4",
+         "trackContentRating": "4+",
+         "trackCensoredName": "aloft - Winds Aloft Forecast",
+         "languageCodesISO2A": [
             "EN"
          ],
-         "fileSizeBytes":"15149809",
-         "sellerUrl":"http://www.otgapps.io",
-         "contentAdvisoryRating":"4+",
-         "averageUserRatingForCurrentVersion":5.0,
-         "userRatingCountForCurrentVersion":2,
-         "artworkUrl100":"http://is5.mzstatic.com/image/pf/us/r30/Purple4/v4/b6/a4/8b/b6a48b5d-b808-ea92-0d49-d6f3a2a8a8a8/mzl.zmkwmwyx.png",
-         "currency":"USD",
-         "wrapperType":"software",
-         "version":"1.0.3",
-         "artistId":414522452,
-         "artistName":"Mohawk Apps, LLC",
-         "genres":[
+         "fileSizeBytes": "15149809",
+         "sellerUrl": "http://www.otgapps.io",
+         "contentAdvisoryRating": "4+",
+         "averageUserRatingForCurrentVersion": 5.0,
+         "userRatingCountForCurrentVersion": 2,
+         "artworkUrl100": "http://is5.mzstatic.com/image/pf/us/r30/Purple4/v4/b6/a4/8b/b6a48b5d-b808-ea92-0d49-d6f3a2a8a8a8/mzl.zmkwmwyx.png",
+         "currency": "USD",
+         "wrapperType": "software",
+         "version": "1.0.3",
+         "artistId": 414522452,
+         "artistName": "Mohawk Apps, LLC",
+         "genres": [
             "Weather",
             "Sports"
          ],
-         "price":3.99,
-         "description":"aloft is the beautiful new way to check NOAA winds aloft forecasts from your iOS device!\n\nWhether you are a pilot, skydiver, wingsuiter, or simply an aviation enthusiast-this app is for you!\n\nApp Features:\n • Pick any NOAA weather station that provides winds aloft forecast data (United States only).\n • Weather stations are automatically sorted by how close they are to you. This helps you choose the closest station with ease.\n • Shows bearing and wind directional arrow for each altitude.\n • Easily switch between metric and imperial units.\n • Use your phone's compass to dynamically update the wind direction arrow to the actual direction the wind is blowing!\n • Made by a skydiver, for skydivers!\n\nGive aloft a try and you'll never need to figure out what \"760253\" means again!\n\nFor the curious, \"760253\" means: Winds at 102 knots bearing 260 degrees at 53°C... or -53°C if above 24,000 feet.\n\nThis app is open source. Browse the source code here: https://github.com/OTGApps/aloft/\n\n*Note - NOAA weather stations are US-based. This app will not show winds-aloft forecasts outside the United States. For a completel list of NOAA weather stations included in the app, please see the NOAA Aviation Weather Center website here: http://www.aviationweather.gov/windtemp",
-         "releaseDate":"2014-04-08T11:49:09Z",
-         "sellerName":"Mohawk Apps, LLC",
-         "primaryGenreName":"Weather",
-         "primaryGenreId":6001,
-         "genreIds":[
+         "price": 3.99,
+         "description": "aloft is the beautiful new way to check NOAA winds aloft forecasts from your iOS device!\n\nWhether you are a pilot, skydiver, wingsuiter, or simply an aviation enthusiast-this app is for you!\n\nApp Features:\n • Pick any NOAA weather station that provides winds aloft forecast data (United States only).\n • Weather stations are automatically sorted by how close they are to you. This helps you choose the closest station with ease.\n • Shows bearing and wind directional arrow for each altitude.\n • Easily switch between metric and imperial units.\n • Use your phone's compass to dynamically update the wind direction arrow to the actual direction the wind is blowing!\n • Made by a skydiver, for skydivers!\n\nGive aloft a try and you'll never need to figure out what \"760253\" means again!\n\nFor the curious, \"760253\" means: Winds at 102 knots bearing 260 degrees at 53°C... or -53°C if above 24,000 feet.\n\nThis app is open source. Browse the source code here: https://github.com/OTGApps/aloft/\n\n*Note - NOAA weather stations are US-based. This app will not show winds-aloft forecasts outside the United States. For a completel list of NOAA weather stations included in the app, please see the NOAA Aviation Weather Center website here: http://www.aviationweather.gov/windtemp",
+         "releaseDate": "2014-04-08T11:49:09Z",
+         "sellerName": "Mohawk Apps, LLC",
+         "primaryGenreName": "Weather",
+         "primaryGenreId": 6001,
+         "genreIds": [
             "6001",
             "6004"
          ],
-         "trackName":"aloft - Winds Aloft Forecast",
-         "trackId":823834093,
-         "bundleId":"com.mohawkapps.aloft",
-         "releaseNotes":"- Fixed arrow direction when dynamic wind indicators was turned off.\n - Added NOAA station identifier to the station list screen.\n - Misc bugfixes and performance updates.",
-         "minimumOsVersion":"7.0",
-         "formattedPrice":"$3.99",
-         "averageUserRating":4.0,
-         "userRatingCount":6
+         "trackName": "aloft - Winds Aloft Forecast",
+         "trackId": 823834093,
+         "bundleId": "com.mohawkapps.aloft",
+         "releaseNotes": "- Fixed arrow direction when dynamic wind indicators was turned off.\n - Added NOAA station identifier to the station list screen.\n - Misc bugfixes and performance updates.",
+         "minimumOsVersion": "7.0",
+         "formattedPrice": "$3.99",
+         "averageUserRating": 4.0,
+         "userRatingCount": 6
       },
       {
-         "screenshotUrls":[
+         "screenshotUrls": [
             "http://a3.mzstatic.com/us/r30/Purple/v4/12/7b/58/127b58d5-11ff-5543-517b-ee0bc28d0b7b/screen800x500.jpeg",
             "http://a1.mzstatic.com/us/r30/Purple6/v4/86/d8/de/86d8de26-a59a-8406-e17a-ea48f5f0795b/screen800x500.jpeg",
             "http://a1.mzstatic.com/us/r30/Purple4/v4/b6/a7/ec/b6a7ecb8-09db-360c-3d06-a04c389a7f53/screen800x500.jpeg",
             "http://a2.mzstatic.com/us/r30/Purple/v4/0e/64/d0/0e64d004-026a-a3b5-e204-b6eb1c80c114/screen800x500.jpeg"
          ],
-         "artworkUrl60":"http://is5.mzstatic.com/image/pf/us/r30/Purple3/v4/1e/d8/6c/1ed86c23-9740-71f5-fa53-503f5f4e74a6/AppIcon.60x60-50.png",
-         "artworkUrl512":"http://is1.mzstatic.com/image/pf/us/r30/Purple3/v4/1e/d8/6c/1ed86c23-9740-71f5-fa53-503f5f4e74a6/AppIcon.512x512-75.png",
-         "artistViewUrl":"https://itunes.apple.com/us/artist/mohawk-apps-llc/id414522452?mt=12&uo=4",
-         "kind":"mac-software",
-         "trackViewUrl":"https://itunes.apple.com/us/app/hacker-bar/id752399442?mt=12&uo=4",
-         "trackContentRating":"12+",
-         "trackCensoredName":"Hacker Bar",
-         "languageCodesISO2A":[
+         "artworkUrl60": "http://is5.mzstatic.com/image/pf/us/r30/Purple3/v4/1e/d8/6c/1ed86c23-9740-71f5-fa53-503f5f4e74a6/AppIcon.60x60-50.png",
+         "artworkUrl512": "http://is1.mzstatic.com/image/pf/us/r30/Purple3/v4/1e/d8/6c/1ed86c23-9740-71f5-fa53-503f5f4e74a6/AppIcon.512x512-75.png",
+         "artistViewUrl": "https://itunes.apple.com/us/artist/mohawk-apps-llc/id414522452?mt=12&uo=4",
+         "kind": "mac-software",
+         "trackViewUrl": "https://itunes.apple.com/us/app/hacker-bar/id752399442?mt=12&uo=4",
+         "trackContentRating": "12+",
+         "trackCensoredName": "Hacker Bar",
+         "languageCodesISO2A": [
             "EN"
          ],
-         "fileSizeBytes":"3244579",
-         "sellerUrl":"http://www.hackerbarapp.com",
-         "contentAdvisoryRating":"12+",
-         "artworkUrl100":"http://is1.mzstatic.com/image/pf/us/r30/Purple3/v4/1e/d8/6c/1ed86c23-9740-71f5-fa53-503f5f4e74a6/AppIcon.512x512-75.png",
-         "currency":"USD",
-         "wrapperType":"software",
-         "version":"1.2.0",
-         "artistId":414522452,
-         "artistName":"Mohawk Apps, LLC",
-         "genres":[
+         "fileSizeBytes": "3244579",
+         "sellerUrl": "http://www.hackerbarapp.com",
+         "contentAdvisoryRating": "12+",
+         "artworkUrl100": "http://is1.mzstatic.com/image/pf/us/r30/Purple3/v4/1e/d8/6c/1ed86c23-9740-71f5-fa53-503f5f4e74a6/AppIcon.512x512-75.png",
+         "currency": "USD",
+         "wrapperType": "software",
+         "version": "1.2.0",
+         "artistId": 414522452,
+         "artistName": "Mohawk Apps, LLC",
+         "genres": [
             "News",
             "Reference"
          ],
-         "price":1.99,
-         "description":"If Y Combinator is your first and only stop for tech news or just a great way to keep up with the world of technology, Hacker Bar will keep you up to date.\n\nHacker Bar lives in the Mac menu bar and provides a steady stream of the top news stories from the Y Combinator news aggregator. Here are some of Hacker Bar’s great features.\n\nHacker Bar...\n\n - Grabs the top stories from Y Combinator and seamlessly refreshes them as they update using the Firebase.io Hacker News official API.\n - Puts a check mark beside each viewed story. Never again wonder if a link has been visited and use this feature to quickly jump back to any interesting article. \n - Allows multiple stories to open in a new tab by group linking articles. If the web browser is open and the active application, stories will open in the background without closing the Hacker Bar menu. \n - Gives easy access to comments with a click of the comment count bubble. Here, registered users can up-vote articles and get flame wars started even faster!\n - Can be set to  auto start on login, never missing another great Y Combinator story!\n\nHacker Bar will keep every person interested in the tech world hooked into the news from Y Combinator in seamless simplicity. Download the App today to quickly and discretely check Hacker News.\n\nHacker Bar and Off The Grid Apps, LLC are not affiliated with Y Combinator or Hacker News. This application is Open Source! https://github.com/OTGApps/Hacker-Bar",
-         "releaseDate":"2013-11-24T11:11:58Z",
-         "sellerName":"Mohawk Apps, LLC",
-         "primaryGenreName":"News",
-         "primaryGenreId":12012,
-         "genreIds":[
+         "price": 1.99,
+         "description": "If Y Combinator is your first and only stop for tech news or just a great way to keep up with the world of technology, Hacker Bar will keep you up to date.\n\nHacker Bar lives in the Mac menu bar and provides a steady stream of the top news stories from the Y Combinator news aggregator. Here are some of Hacker Bar’s great features.\n\nHacker Bar...\n\n - Grabs the top stories from Y Combinator and seamlessly refreshes them as they update using the Firebase.io Hacker News official API.\n - Puts a check mark beside each viewed story. Never again wonder if a link has been visited and use this feature to quickly jump back to any interesting article. \n - Allows multiple stories to open in a new tab by group linking articles. If the web browser is open and the active application, stories will open in the background without closing the Hacker Bar menu. \n - Gives easy access to comments with a click of the comment count bubble. Here, registered users can up-vote articles and get flame wars started even faster!\n - Can be set to  auto start on login, never missing another great Y Combinator story!\n\nHacker Bar will keep every person interested in the tech world hooked into the news from Y Combinator in seamless simplicity. Download the App today to quickly and discretely check Hacker News.\n\nHacker Bar and Off The Grid Apps, LLC are not affiliated with Y Combinator or Hacker News. This application is Open Source! https://github.com/OTGApps/Hacker-Bar",
+         "releaseDate": "2013-11-24T11:11:58Z",
+         "sellerName": "Mohawk Apps, LLC",
+         "primaryGenreName": "News",
+         "primaryGenreId": 12012,
+         "genreIds": [
             "12012",
             "12015"
          ],
-         "trackName":"Hacker Bar",
-         "trackId":752399442,
-         "bundleId":"com.mohawkapps.hacker-bar",
-         "releaseNotes":"- Updated to use the official Hacker News API\n - Support for Yosemite \"Dark Mode\"\n - Speed improvements and other misc fixes.\n\nDon't forget, Hacker Bar is open source! Check out the whole change list here: https://github.com/OTGApps/Hacker-Bar/compare/v1.1.1...v1.2.0",
-         "minimumOsVersion":"10.8",
-         "formattedPrice":"$1.99",
-         "averageUserRating":3.0,
-         "userRatingCount":6
+         "trackName": "Hacker Bar",
+         "trackId": 752399442,
+         "bundleId": "com.mohawkapps.hacker-bar",
+         "releaseNotes": "- Updated to use the official Hacker News API\n - Support for Yosemite \"Dark Mode\"\n - Speed improvements and other misc fixes.\n\nDon't forget, Hacker Bar is open source! Check out the whole change list here: https://github.com/OTGApps/Hacker-Bar/compare/v1.1.1...v1.2.0",
+         "minimumOsVersion": "10.8",
+         "formattedPrice": "$1.99",
+         "averageUserRating": 3.0,
+         "userRatingCount": 6
       },
       {
-         "screenshotUrls":[
+         "screenshotUrls": [
             "http://a1.mzstatic.com/us/r30/Purple4/v4/17/79/5c/17795c51-e879-e781-8185-eaa70b9262e0/screen1136x1136.jpeg",
             "http://a4.mzstatic.com/us/r30/Purple/v4/94/32/40/943240ca-a49c-dd9d-f147-78778e53cd2e/screen1136x1136.jpeg",
             "http://a1.mzstatic.com/us/r30/Purple2/v4/53/16/8f/53168f73-8829-fae3-8a83-6a54609afda9/screen1136x1136.jpeg",
             "http://a2.mzstatic.com/us/r30/Purple/v4/fe/dc/35/fedc3542-5b76-8bbe-570d-21cf58cf1aa4/screen1136x1136.jpeg",
             "http://a2.mzstatic.com/us/r30/Purple2/v4/fd/c6/0b/fdc60b9c-c8cc-6dcf-8fd6-dd4bce35b1e1/screen1136x1136.jpeg"
          ],
-         "ipadScreenshotUrls":[
+         "ipadScreenshotUrls": [
 
          ],
-         "artworkUrl60":"http://is2.mzstatic.com/image/pf/us/r30/Purple4/v4/66/46/fd/6646fd90-d032-d5da-e499-28be7b85fb31/Icon.png",
-         "artworkUrl512":"http://is5.mzstatic.com/image/pf/us/r30/Purple4/v4/b3/1c/02/b31c0252-815e-53ab-8e8f-53d259a2ec79/mzl.blavtzke.png",
-         "artistViewUrl":"https://itunes.apple.com/us/artist/mohawk-apps-llc/id414522452?uo=4",
-         "isGameCenterEnabled":false,
-         "kind":"software",
-         "features":[
+         "artworkUrl60": "http://is2.mzstatic.com/image/pf/us/r30/Purple4/v4/66/46/fd/6646fd90-d032-d5da-e499-28be7b85fb31/Icon.png",
+         "artworkUrl512": "http://is5.mzstatic.com/image/pf/us/r30/Purple4/v4/b3/1c/02/b31c0252-815e-53ab-8e8f-53d259a2ec79/mzl.blavtzke.png",
+         "artistViewUrl": "https://itunes.apple.com/us/artist/mohawk-apps-llc/id414522452?uo=4",
+         "isGameCenterEnabled": false,
+         "kind": "software",
+         "features": [
 
          ],
-         "supportedDevices":[
+         "supportedDevices": [
             "iPhone5",
             "iPadFourthGen4G",
             "iPad23G",
@@ -596,63 +595,63 @@
             "iPhone6Plus",
             "iPadMini4G"
          ],
-         "advisories":[
+         "advisories": [
 
          ],
-         "trackViewUrl":"https://itunes.apple.com/us/app/rubymotion-inspect-2014/id863959924?mt=8&uo=4",
-         "trackContentRating":"4+",
-         "trackCensoredName":"RubyMotion #Inspect 2014",
-         "languageCodesISO2A":[
+         "trackViewUrl": "https://itunes.apple.com/us/app/rubymotion-inspect-2014/id863959924?mt=8&uo=4",
+         "trackContentRating": "4+",
+         "trackCensoredName": "RubyMotion #Inspect 2014",
+         "languageCodesISO2A": [
             "EN"
          ],
-         "fileSizeBytes":"17472963",
-         "sellerUrl":"http://www.otgapps.io",
-         "contentAdvisoryRating":"4+",
-         "artworkUrl100":"http://is5.mzstatic.com/image/pf/us/r30/Purple4/v4/b3/1c/02/b31c0252-815e-53ab-8e8f-53d259a2ec79/mzl.blavtzke.png",
-         "currency":"USD",
-         "wrapperType":"software",
-         "version":"1.0.1",
-         "artistId":414522452,
-         "artistName":"Mohawk Apps, LLC",
-         "genres":[
+         "fileSizeBytes": "17472963",
+         "sellerUrl": "http://www.otgapps.io",
+         "contentAdvisoryRating": "4+",
+         "artworkUrl100": "http://is5.mzstatic.com/image/pf/us/r30/Purple4/v4/b3/1c/02/b31c0252-815e-53ab-8e8f-53d259a2ec79/mzl.blavtzke.png",
+         "currency": "USD",
+         "wrapperType": "software",
+         "version": "1.0.1",
+         "artistId": 414522452,
+         "artistName": "Mohawk Apps, LLC",
+         "genres": [
             "Business"
          ],
-         "price":0.00,
-         "description":"Join us for our second annual developer conference.\nTwo days, one track, 100% RubyMotion.\n\nThe conference will feature speakers exclusively from the RubyMotion community. We guarantee you will learn a few things.\n\nThe conference will feature a single track that will include at least 16 talks over two days.\n\nAll talks will focus on RubyMotion and be delivered by community members.\n\nBesides talks, there will also be workshops, panels and informal group discussions.\n\nBreakfast and lunch will be provided. We will also celebrate the end of the event with an awesome party.\n\nThis app is open source! https://github.com/OTGApps/rubymotion-inspect2014",
-         "releaseDate":"2014-05-08T01:00:59Z",
-         "sellerName":"Mohawk Apps, LLC",
-         "primaryGenreName":"Business",
-         "primaryGenreId":6000,
-         "genreIds":[
+         "price": 0.00,
+         "description": "Join us for our second annual developer conference.\nTwo days, one track, 100% RubyMotion.\n\nThe conference will feature speakers exclusively from the RubyMotion community. We guarantee you will learn a few things.\n\nThe conference will feature a single track that will include at least 16 talks over two days.\n\nAll talks will focus on RubyMotion and be delivered by community members.\n\nBesides talks, there will also be workshops, panels and informal group discussions.\n\nBreakfast and lunch will be provided. We will also celebrate the end of the event with an awesome party.\n\nThis app is open source! https://github.com/OTGApps/rubymotion-inspect2014",
+         "releaseDate": "2014-05-08T01:00:59Z",
+         "sellerName": "Mohawk Apps, LLC",
+         "primaryGenreName": "Business",
+         "primaryGenreId": 6000,
+         "genreIds": [
             "6000"
          ],
-         "trackName":"RubyMotion #Inspect 2014",
-         "trackId":863959924,
-         "bundleId":"com.mohawkapps.inspect",
-         "releaseNotes":"Fixed \"Open in maps\" link from Location and Party Screens.",
-         "minimumOsVersion":"7.0",
-         "formattedPrice":"Free"
+         "trackName": "RubyMotion #Inspect 2014",
+         "trackId": 863959924,
+         "bundleId": "com.mohawkapps.inspect",
+         "releaseNotes": "Fixed \"Open in maps\" link from Location and Party Screens.",
+         "minimumOsVersion": "7.0",
+         "formattedPrice": "Free"
       },
       {
-         "screenshotUrls":[
+         "screenshotUrls": [
             "http://a1.mzstatic.com/us/r30/Purple1/v4/03/22/e5/0322e5ee-9b18-4aa7-81db-31654928dcf5/screen1136x1136.jpeg",
             "http://a4.mzstatic.com/us/r30/Purple5/v4/c3/88/0f/c3880fff-72fa-aa58-361d-35d0996649d5/screen1136x1136.jpeg",
             "http://a5.mzstatic.com/us/r30/Purple3/v4/62/e2/7b/62e27b31-f8df-8707-8799-b037a751bfba/screen1136x1136.jpeg",
             "http://a1.mzstatic.com/us/r30/Purple3/v4/34/31/19/34311971-b58e-bd22-f452-241b2471bf8d/screen1136x1136.jpeg",
             "http://a1.mzstatic.com/us/r30/Purple1/v4/e2/42/58/e2425880-fcf6-0392-7dda-7918fc09c666/screen1136x1136.jpeg"
          ],
-         "ipadScreenshotUrls":[
+         "ipadScreenshotUrls": [
 
          ],
-         "artworkUrl60":"http://is3.mzstatic.com/image/pf/us/r30/Purple1/v4/1b/f9/23/1bf92349-cc06-f6e0-1680-29e567d994eb/Icon.png",
-         "artworkUrl512":"http://is4.mzstatic.com/image/pf/us/r30/Purple1/v4/eb/f9/03/ebf903b7-c4e3-d89b-6c85-ea0a8cdbe652/pr_source.png",
-         "artistViewUrl":"https://itunes.apple.com/us/artist/mohawk-apps-llc/id414522452?uo=4",
-         "isGameCenterEnabled":false,
-         "kind":"software",
-         "features":[
+         "artworkUrl60": "http://is3.mzstatic.com/image/pf/us/r30/Purple1/v4/1b/f9/23/1bf92349-cc06-f6e0-1680-29e567d994eb/Icon.png",
+         "artworkUrl512": "http://is4.mzstatic.com/image/pf/us/r30/Purple1/v4/eb/f9/03/ebf903b7-c4e3-d89b-6c85-ea0a8cdbe652/pr_source.png",
+         "artistViewUrl": "https://itunes.apple.com/us/artist/mohawk-apps-llc/id414522452?uo=4",
+         "isGameCenterEnabled": false,
+         "kind": "software",
+         "features": [
 
          ],
-         "supportedDevices":[
+         "supportedDevices": [
             "iPhone5",
             "iPadFourthGen4G",
             "iPad23G",
@@ -665,64 +664,64 @@
             "iPhone6Plus",
             "iPadMini4G"
          ],
-         "advisories":[
+         "advisories": [
 
          ],
-         "trackViewUrl":"https://itunes.apple.com/us/app/dropzones-uspa-dropzone-finder/id960515397?mt=8&uo=4",
-         "trackContentRating":"4+",
-         "trackCensoredName":"Dropzones - USPA Dropzone Finder",
-         "languageCodesISO2A":[
+         "trackViewUrl": "https://itunes.apple.com/us/app/dropzones-uspa-dropzone-finder/id960515397?mt=8&uo=4",
+         "trackContentRating": "4+",
+         "trackCensoredName": "Dropzones-USPA Dropzone Finder",
+         "languageCodesISO2A": [
             "EN"
          ],
-         "fileSizeBytes":"9752878",
-         "sellerUrl":"http://otgapps.io",
-         "contentAdvisoryRating":"4+",
-         "averageUserRatingForCurrentVersion":5.0,
-         "userRatingCountForCurrentVersion":1,
-         "artworkUrl100":"http://is4.mzstatic.com/image/pf/us/r30/Purple1/v4/eb/f9/03/ebf903b7-c4e3-d89b-6c85-ea0a8cdbe652/pr_source.png",
-         "currency":"USD",
-         "wrapperType":"software",
-         "version":"1.0.0",
-         "artistId":414522452,
-         "artistName":"Mohawk Apps, LLC",
-         "genres":[
+         "fileSizeBytes": "9752878",
+         "sellerUrl": "http://otgapps.io",
+         "contentAdvisoryRating": "4+",
+         "averageUserRatingForCurrentVersion": 5.0,
+         "userRatingCountForCurrentVersion": 1,
+         "artworkUrl100": "http://is4.mzstatic.com/image/pf/us/r30/Purple1/v4/eb/f9/03/ebf903b7-c4e3-d89b-6c85-ea0a8cdbe652/pr_source.png",
+         "currency": "USD",
+         "wrapperType": "software",
+         "version": "1.0.0",
+         "artistId": 414522452,
+         "artistName": "Mohawk Apps, LLC",
+         "genres": [
             "Lifestyle",
             "Reference"
          ],
-         "price":2.99,
-         "description":"Looking for somewhere to make your first skydive? Are you an experienced skydiver looking for fun new places to jump? Then this app is for you!\n\nThis is the first app ever released into the App Store during freefall!\n\nDropzones lists all current U.S. Parachute Association (USPA) member dropzones in an easy to navigate interface. Because these dropzones are USPA certified, you can be assured that the staff, training, equipment, and airplanes are top-quality!\n\n* Quickly find the dropzones closest to where you are now!\n* Search by state, region, aircraft, services offered, and training capabilities.\n* See a map of every USPA dropzone in the US!\n* Detailed information about each dropzone.\n* Quickly access dropzone websites or call them right form the app!\n\nUse this app to plan your next skydiving road trip across the United States!\n\nThis app is open source. Browse the source code here: https://github.com/OTGApps/Dropzones\n\n\"Dropzones - USPA Dropzone Finder\" is not endorsed by or affiliated with the USPA. While every reasonable effort is made to ensure that the dropzone data displayed in this app is accurate, we can not be held liable for incorrect information reported by the USPA. Please verify all information with the dropzone directly.",
-         "releaseDate":"2015-02-04T07:33:59Z",
-         "sellerName":"Mohawk Apps, LLC",
-         "primaryGenreName":"Lifestyle",
-         "primaryGenreId":6012,
-         "genreIds":[
+         "price": 2.99,
+         "description": "Looking for somewhere to make your first skydive? Are you an experienced skydiver looking for fun new places to jump? Then this app is for you!\n\nDropzones lists all current U.S. Parachute Association (USPA) member dropzones in an easy to navigate interface. Because these dropzones are USPA certified, you can be assured that the staff, training, equipment, and airplanes are top-quality!\n\n* Quickly find the dropzones closest to where you are now!\n* Search by state, aircraft, services offered, and training capabilities.\n* See a map of every USPA certified dropzone in the universe!\n* Detailed information about each dropzone.\n* Quickly access dropzone websites or initiate a phone call from right within the app!\n\nUse this app to plan your next skydiving road trip across the United States!\n\nThis app is not endorsed by or affiliated with the USPA. While every reasonable effort is made to ensure that the dropzone data displayed in this app is accurate, we can not be held liable for incorrect information reported by the USPA. Please verify all information with the dropzone directly.",
+         "releaseDate": "2015-02-04T07:33:59Z",
+         "sellerName": "Mohawk Apps, LLC",
+         "primaryGenreName": "Lifestyle",
+         "primaryGenreId": 6012,
+         "genreIds": [
             "6012",
             "6006"
          ],
-         "trackName":"Dropzones - USPA Dropzone Finder",
-         "trackId":960515397,
-         "bundleId":"io.otgapps.dropzones",
-         "minimumOsVersion":"7.1",
-         "formattedPrice":"$2.99"
+         "trackName": "Dropzones-USPA Dropzone Finder",
+         "trackId": 960515397,
+         "bundleId": "io.otgapps.dropzones",
+         "minimumOsVersion": "7.1",
+         "formattedPrice": "$2.99"
       },
       {
-         "screenshotUrls":[
+         "screenshotUrls": [
             "http://a5.mzstatic.com/us/r30/Purple2/v4/20/03/fb/2003fb33-58b0-ab85-26f3-5968b2d9d2e4/screen1136x1136.jpeg",
             "http://a4.mzstatic.com/us/r30/Purple2/v4/e3/57/a9/e357a9f0-b156-f197-190e-14316d218075/screen1136x1136.jpeg",
             "http://a5.mzstatic.com/us/r30/Purple2/v4/eb/07/d3/eb07d3e7-1de8-e8ae-bc40-cf3abfff5a2c/screen1136x1136.jpeg"
          ],
-         "ipadScreenshotUrls":[
+         "ipadScreenshotUrls": [
 
          ],
-         "artworkUrl60":"http://is4.mzstatic.com/image/pf/us/r30/Purple/v4/ed/f8/eb/edf8ebc7-5bd1-6fef-ff41-6e658b6e2cd8/Icon.png",
-         "artworkUrl512":"http://is2.mzstatic.com/image/pf/us/r30/Purple4/v4/bc/55/cd/bc55cd3f-ce99-9ecd-062d-5cb09a705dfa/mzl.ribtfffw.png",
-         "artistViewUrl":"https://itunes.apple.com/us/artist/mohawk-apps-llc/id414522452?uo=4",
-         "isGameCenterEnabled":false,
-         "kind":"software",
-         "features":[
+         "artworkUrl60": "http://is4.mzstatic.com/image/pf/us/r30/Purple/v4/ed/f8/eb/edf8ebc7-5bd1-6fef-ff41-6e658b6e2cd8/Icon.png",
+         "artworkUrl512": "http://is2.mzstatic.com/image/pf/us/r30/Purple4/v4/bc/55/cd/bc55cd3f-ce99-9ecd-062d-5cb09a705dfa/mzl.ribtfffw.png",
+         "artistViewUrl": "https://itunes.apple.com/us/artist/mohawk-apps-llc/id414522452?uo=4",
+         "isGameCenterEnabled": false,
+         "kind": "software",
+         "features": [
 
          ],
-         "supportedDevices":[
+         "supportedDevices": [
             "iPhone5",
             "iPadFourthGen4G",
             "iPad23G",
@@ -740,44 +739,44 @@
             "iPhone6Plus",
             "iPadMini4G"
          ],
-         "advisories":[
+         "advisories": [
             "Frequent/Intense Alcohol, Tobacco, or Drug Use or References"
          ],
-         "trackViewUrl":"https://itunes.apple.com/us/app/six-pack-equivalent-calculator/id414522449?mt=8&uo=4",
-         "trackContentRating":"17+",
-         "trackCensoredName":"Six-Pack Equivalent Calculator",
-         "languageCodesISO2A":[
+         "trackViewUrl": "https://itunes.apple.com/us/app/six-pack-equivalent-calculator/id414522449?mt=8&uo=4",
+         "trackContentRating": "17+",
+         "trackCensoredName": "Six-Pack Equivalent Calculator",
+         "languageCodesISO2A": [
             "EN"
          ],
-         "fileSizeBytes":"12228216",
-         "sellerUrl":"http://www.otgapps.io",
-         "contentAdvisoryRating":"17+",
-         "artworkUrl100":"http://is2.mzstatic.com/image/pf/us/r30/Purple4/v4/bc/55/cd/bc55cd3f-ce99-9ecd-062d-5cb09a705dfa/mzl.ribtfffw.png",
-         "currency":"USD",
-         "wrapperType":"software",
-         "version":"2.0.0",
-         "artistId":414522452,
-         "artistName":"Mohawk Apps, LLC",
-         "genres":[
+         "fileSizeBytes": "12228216",
+         "sellerUrl": "http://www.otgapps.io",
+         "contentAdvisoryRating": "17+",
+         "artworkUrl100": "http://is2.mzstatic.com/image/pf/us/r30/Purple4/v4/bc/55/cd/bc55cd3f-ce99-9ecd-062d-5cb09a705dfa/mzl.ribtfffw.png",
+         "currency": "USD",
+         "wrapperType": "software",
+         "version": "2.0.0",
+         "artistId": 414522452,
+         "artistName": "Mohawk Apps, LLC",
+         "genres": [
             "Lifestyle",
             "Utilities"
          ],
-         "price":0.99,
-         "description":"Ever wonder how much you’re really paying for that pint of beer? Or how much that 64oz growler actually costs without having to do conversions in your head?\n\nWith Six-Pack Equivalent Calculator, you put in the cost of your beer and the amount you got and the app will tell you the cost if you bought a six-pack of that particular beer.\n\nThe idea is that everyone knows how much a six-pack of their favorite beer costs. This converter will help you determine the price of what you’re drinking right now to an equivalent you are already familiar with!\n\nI was happy to realize that a $9 fill of my 1/2 gallon growler (64oz) at my local brewpub was the equivalent of a $10.12 six-pack! That’s a great deal for craft beer when I’m used to paying upwards of $12 or more for good craft beer.\n\nThis app is open source. Browse the source code here: https://github.com/OTGApps/6PackCalc",
-         "releaseDate":"2011-01-19T01:46:18Z",
-         "sellerName":"Mohawk Apps, LLC",
-         "primaryGenreName":"Lifestyle",
-         "primaryGenreId":6012,
-         "genreIds":[
+         "price": 0.99,
+         "description": "Ever wonder how much you’re really paying for that pint of beer? Or how much that 64oz growler actually costs without having to do conversions in your head?\n\nWith Six-Pack Equivalent Calculator, you put in the cost of your beer and the amount you got and the app will tell you the cost if you bought a six-pack of that particular beer.\n\nThe idea is that everyone knows how much a six-pack of their favorite beer costs. This converter will help you determine the price of what you’re drinking right now to an equivalent you are already familiar with!\n\nI was happy to realize that a $9 fill of my 1/2 gallon growler (64oz) at my local brewpub was the equivalent of a $10.12 six-pack! That’s a great deal for craft beer when I’m used to paying upwards of $12 or more for good craft beer.\n\nThis app is open source. Browse the source code here: https://github.com/OTGApps/6PackCalc",
+         "releaseDate": "2011-01-19T01:46:18Z",
+         "sellerName": "Mohawk Apps, LLC",
+         "primaryGenreName": "Lifestyle",
+         "primaryGenreId": 6012,
+         "genreIds": [
             "6012",
             "6002"
          ],
-         "trackName":"Six-Pack Equivalent Calculator",
-         "trackId":414522449,
-         "bundleId":"com.homebrewparadise.sixpackcalc",
-         "releaseNotes":"All new design!\nUpdated to support iOS 7 and the 4\" iPhone size!",
-         "minimumOsVersion":"7.0",
-         "formattedPrice":"$0.99"
+         "trackName": "Six-Pack Equivalent Calculator",
+         "trackId": 414522449,
+         "bundleId": "com.homebrewparadise.sixpackcalc",
+         "releaseNotes": "All new design!\nUpdated to support iOS 7 and the 4\" iPhone size!",
+         "minimumOsVersion": "7.0",
+         "formattedPrice": "$0.99"
       }
    ]
 }
