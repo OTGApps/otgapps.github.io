@@ -1,61 +1,72 @@
  <!-- Apps Modals -->
-{% for app in site.data.app_store.results | sort: 'releaseDate' %}
-{% if app.kind =='mac-software'] or app.kind == 'software' %}
-  <div class="apps-modal modal fade" id="{{ app.trackName | slugify }}" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-content">
-      <div class="close-modal" data-dismiss="modal">
-        <div class="lr">
-          <div class="rl">
-          </div>
-        </div>
-      </div>
-      <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
-              <div class="modal-body">
-                <h2>{{ app.trackName }}</h2>
-                <hr class="phone-primary">
-                <a href="{{ app.trackViewUrl }}&amp;at=10l4yY&amp;ct=otgapps.io">
-                  {% if app.kind =='mac-software' %}
-                    <img src="{{ app.artworkUrl512 | replace:'.512x512-75.jpg','.350x350-75.jpg' }}" class="img-responsive img-centered rounded" alt="{{ app.trackName }}">
-                  {% else %}
-                    <img src="{{ app.artworkUrl512 | replace:'.png','.350x350-75.jpg' }}" class="img-responsive img-centered rounded" alt="{{ app.trackName }}">
-                  {% endif%}
-                </a>
-                <h3>Description:</h3>
-                {{ app.description | markdownify | urlify }}
+ {% for app in site.data.app_store.results | sort: 'releaseDate' %}
+ {% if app.kind =='mac-software'] or app.kind == 'software' %}
+ <div class="apps-modal modal fade" id="{{ app.trackName | slugify }}" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="modal-content">
+     <div class="close-modal" data-dismiss="modal">
+       <div class="lr">
+         <div class="rl">
+         </div>
+       </div>
+     </div>
+     <div class="container">
+       <div class="row">
+         <div class="col-lg-8 col-lg-offset-2">
+           <div class="modal-body">
+             <h2>{{ app.trackName }}</h2>
+             <hr class="phone-primary">
+             <a href="{{ app.trackViewUrl }}&amp;at=10l4yY&amp;ct=otgapps.io">
+               {% if app.kind =='mac-software' %}
+               <img src="{{ app.artworkUrl512 | replace:'.512x512-75.jpg','.350x350-75.jpg' }}"
+                 class="img-responsive img-centered rounded" alt="{{ app.trackName }}">
+               {% else %}
+               <img src="{{ app.artworkUrl512 | replace:'.png','.350x350-75.jpg' }}"
+                 class="img-responsive img-centered rounded" alt="{{ app.trackName }}">
+               {% endif%}
+             </a>
+             <h3>Description:</h3>
+             {{ app.description | markdownify | urlify }}
 
-                {% if app.releaseNotes != '' and app.releaseNotes != nil %}
-                  <h3>Latest Update:</h3>
-                  <p>{{ app.releaseNotes }}</p>
-                {% endif %}
-                <h3>Download: </h3>
-                <p>
-                  {% if app.price == 0 %}
-                    FREE!
-                  {% else %}
-                    Only ${{ app.price | price }}
-                  {% endif %}
-                  <br />
-                  <a href="{{ app.trackViewUrl }}&amp;at=10l4yY&amp;ct=otgapps.io">
-                    <img src="http://ax.phobos.apple.com.edgesuite.net/images/web/linkmaker/badge_appstore-lrg.gif">
-                  </a>
-                </p>
-                <h3>Screenshots:</h3>
-                <div class="screenshots">
-                  {% for url in app.screenshotUrls %}
-                    <a href="{{ url }}" target="_blank"><img src="{{ url }}" alt="Screenshot" /></a>
-                  {% endfor %}
-                </div>
-                <h3>Questions? Comments?</h3>
-                <p>If you have questions or comments about {{ app.trackName }}, please don't hesitate to <a href="mailto:info@otgapps.io?subject={{ app.trackName }} App">reach out via email</a>.</p>
+             {% if app.releaseNotes != '' and app.releaseNotes != nil %}
+             <h3>Latest Update:</h3>
+             <p>{{ app.releaseNotes }}</p>
+             {% endif %}
+             <h3>Download: </h3>
+             <p>
+               {% if app.price == 0 %}
+               FREE!
+               {% else %}
+               Only ${{ app.price | price }}
+               {% endif %}
+               <br />
+               <a href="{{ app.trackViewUrl }}&amp;at=10l4yY&amp;ct=otgapps.io">
+                 <img src="http://ax.phobos.apple.com.edgesuite.net/images/web/linkmaker/badge_appstore-lrg.gif">
+               </a>
+               {% if app.trackViewUrlAndroid %}
+               <a
+                 href="{{ app.trackViewUrlAndroid }}&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">
+                 <img alt='Get it on Google Play' width="160"
+                   src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' />
+               </a>
+               {% endif %}
+             </p>
+             <h3>Screenshots:</h3>
+             <div class="screenshots">
+               {% for url in app.screenshotUrls %}
+               <a href="{{ url }}" target="_blank"><img src="{{ url }}" alt="Screenshot" /></a>
+               {% endfor %}
+             </div>
+             <h3>Questions? Comments?</h3>
+             <p>If you have questions or comments about {{ app.trackName }}, please don't hesitate to <a
+                 href="mailto:info@otgapps.io?subject={{ app.trackName }} App">reach out via email</a>.</p>
 
-                <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-              </div>
-            </div>
-          </div>
-      </div>
-    </div>
-  </div>
-{% endif %}
-{% endfor %}
+             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
+               Close</button>
+           </div>
+         </div>
+       </div>
+     </div>
+   </div>
+ </div>
+ {% endif %}
+ {% endfor %}
