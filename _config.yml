@@ -1,9 +1,7 @@
 # Site settings
 title: Off The Grid Apps
 email: info@otgapps.com
-description: "Off The Grid Apps is a mobile and Mac application development company specializing in RubyMotion."
-
-
+description: "Off The Grid Apps builds mobile and web apps. We specialize in React and React Native."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -13,17 +11,17 @@ color:
 
 # Footer settings
 footer:
-  copyright: 'Off The Grid Apps, LLC'
+  copyright: "Off The Grid Apps, LLC"
   location: Location
-  social: Around the Web
+  # social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/markrickert
-  - title: github
-    url: http://github.com/otgapps
+# social:
+#   - title: twitter
+#     url: http://twitter.com/markrickert
+#   - title: github
+#     url: http://github.com/otgapps
 
 # Postal address (add as many lines as necessary)
 address:
@@ -31,7 +29,7 @@ address:
   - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: ''
+credits: ""
 
 # Build settings
 markdown: kramdown
